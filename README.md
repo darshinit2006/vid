@@ -1,1 +1,1 @@
-this is a mern project , gives details about how to run it , install it
+this is a mern project , gives details about how to run it , install it and 
