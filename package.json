@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "a tutorial ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "type": "module",
+ "scripts": {
+    "start": "node backend/src/index.js",
+    "dev": "nodemon backend/src/index.js"
   },
   "repository": {
     "type": "git",
